@@ -6,6 +6,10 @@ package org.module.one;
  */
 public class App 
 {
+
+ // How to execute from codespace
+ // $ java -cp module-01-0.0.1-SNAPSHOT.jar org.module.one.App
+ 
     public static void main( String[] args )
     {
         System.out.println( "Hello World! Git Hub Dev" );
